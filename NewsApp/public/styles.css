@@ -1,0 +1,22 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin: 0;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
